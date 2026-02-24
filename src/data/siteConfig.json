@@ -1,0 +1,128 @@
+{
+  "brandName": "ISHARA | Silk & Stone",
+  "hero": {
+    "tagline": "The Art of Adornment",
+    "title": "Ethereal",
+    "accentTitle": "Radiance",
+    "subtitle": "Hand-sculpted pieces that bridge the gap between ancient heritage and contemporary soul.",
+    "backgroundImage": {
+      "url": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&q=80&w=2000",
+      "type": "image"
+    }
+  },
+  "about": {
+    "subtitle": "Our Philosophy",
+    "title": "Beyond Gold and Silver",
+    "content": "Located in the serene landscapes of Kerala, Ishara's new collection explores the raw beauty of uncut stones and the fluidity of molten gold. Every piece is a conversation between the artisan and the earth.",
+    "image": {
+      "url": "https://images.unsplash.com/photo-1588444837495-c6cfaf50c8a9?auto=format&fit=crop&q=80&w=800",
+      "type": "image"
+    }
+  },
+  "contact": {
+    "address": "Studio Ishara, Heritage Plaza, Kochi, Kerala",
+    "phone": "+91 90000 11111",
+    "email": "hello@ishara-designs.com",
+    "instagram": "https://www.instagram.com/ishara_silk_stone/",
+    "instagramDm": "https://www.instagram.com/direct/t/ishara_exclusive"
+  },
+  "products": [
+    {
+      "id": "prod_001",
+      "name": "Celestial Moonstone Drop",
+      "price": "₹18,200",
+      "description": "Luminous moonstones set in a textured 'molten' silver frame.",
+      "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&q=80&w=800",
+      "category": "Earrings",
+      "details": [
+        "925 Sterling Silver",
+        "Natural Rainbow Moonstone",
+        "Nickel-free",
+        "Weight: 12g"
+      ],
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&q=80&w=800",
+          "type": "image"
+        },
+        {
+          "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNidXU5M3B6eXpseWxlZzZ5eHl6eXpseWxlZzZ5eHl6eXpseWwmaz1p/l41lTfuxV5c9bV1h6/giphy.gif",
+          "type": "gif"
+        }
+      ]
+    },
+    {
+      "id": "prod_002",
+      "name": "The Solar Flare Cuff",
+      "price": "₹34,500",
+      "description": "A bold, wide-profile cuff inspired by the morning sun over the Arabian Sea.",
+      "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&q=80&w=800",
+      "category": "Bangles",
+      "details": [
+        "24K Gold Plated Brass",
+        "Adjustable Fit",
+        "Hammered Texture"
+      ],
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&q=80&w=800",
+          "type": "image"
+        },
+        {
+          "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "prod_003",
+      "name": "Raw Ruby 'Talisman' Ring",
+      "price": "₹22,000",
+      "description": "An unpolished, raw ruby held by organic gold 'claws'. No two rings are alike.",
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&q=80&w=800",
+      "category": "Rings",
+      "details": [
+        "18K Solid Gold",
+        "Conflict-free Raw Ruby",
+        "Matte Finish"
+      ],
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&q=80&w=800",
+          "type": "image"
+        },
+        {
+          "url": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzh5eXpseWxlZzZ5eHl6eXpseWxlZzZ5eHl6eXpseWwmaz1p/3o7TKVUn7iM8FMEU24/giphy.gif",
+          "type": "gif"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1598560912005-5976593c8801?auto=format&fit=crop&q=80&w=800",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "prod_004",
+      "name": "Onyx Statement Mala",
+      "price": "₹55,000",
+      "description": "A heavy-weight necklace featuring black onyx beads and a central gold-dipped pendant.",
+      "image": "https://images.unsplash.com/photo-1512163143273-bde0e3cc7407?auto=format&fit=crop&q=80&w=800",
+      "category": "Necklace",
+      "details": [
+        "Grade AAA Black Onyx",
+        "Hand-knotted Silk Thread",
+        "Length: 24 Inches"
+      ],
+      "media": [
+        {
+          "url": "https://images.unsplash.com/photo-1512163143273-bde0e3cc7407?auto=format&fit=crop&q=80&w=800",
+          "type": "image"
+        },
+        {
+          "url": "https://www.w3schools.com/html/movie.mp4",
+          "type": "video"
+        }
+      ]
+    }
+  ]
+}
