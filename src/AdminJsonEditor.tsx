@@ -140,7 +140,7 @@ const AdminJsonEditor: React.FC = () => {
                         <div className="bg-indigo-600 p-2 rounded-lg text-white"><Globe className="w-5 h-5" /></div>
                         <h1 className="text-xl font-black uppercase tracking-widest text-slate-800">Ishara <span className="text-indigo-600"></span></h1>
                     </div>
-                    {true && (
+                    {jsonUrl && (
                         <div className="bg-white border-2 border-emerald-100 p-6 rounded-3xl shadow-xl shadow-emerald-50 flex flex-col md:flex-row items-center gap-6 animate-in zoom-in-95">
                             <div className="bg-emerald-500 p-3 rounded-2xl text-white shadow-lg shadow-emerald-200">
                                 <Check className="w-6 h-6" />
