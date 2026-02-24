@@ -7,7 +7,7 @@ import ProductModal from './components/ProductModal';
 import Footer from './components/Footer';
 import MediaRenderer from './components/MediaRenderer';
 // import siteConfigData from './data/siteConfig.json';
-import type { Product, SiteConfig } from './types';
+import type { Product } from './types';
 import { Sparkles, Heart } from 'lucide-react';
 import { useWishlist } from './hooks/useWishlist';
 import { useSiteConfig } from './data/useSiteConfig';

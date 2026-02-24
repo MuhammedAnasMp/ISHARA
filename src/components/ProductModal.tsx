@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Instagram, CheckCircle2, ChevronLeft, ChevronRight } from 'lucide-react';
+import { X,  CheckCircle2, ChevronLeft, ChevronRight } from 'lucide-react';
 import type { Product, Media } from '../types';
 import MediaRenderer from './MediaRenderer';
 // import siteConfigData from '../data/siteConfig.json';
-import type { SiteConfig } from '../types';
+
 import { useSiteConfig } from '../data/useSiteConfig';
 
 // const siteConfig = siteConfigData as unknown as SiteConfig;

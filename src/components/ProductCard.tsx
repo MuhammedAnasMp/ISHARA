@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import type { Product, Media } from '../types';
+import type { Product } from '../types';
 import MediaRenderer from './MediaRenderer';
 import { Heart, ArrowUpRight } from 'lucide-react';
 

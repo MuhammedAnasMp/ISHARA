@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import MediaRenderer from './MediaRenderer';
 // import siteConfigData from '../data/siteConfig.json';
-import type { SiteConfig } from '../types';
+
 import { useSiteConfig } from '../data/useSiteConfig';
 
 // const siteConfig = siteConfigData as unknown as SiteConfig;
